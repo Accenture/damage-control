@@ -8,6 +8,12 @@ Damage Control acts as a last line of defense to make sure that your cloud is se
 
 Quick read: https://medium.com/google-cloud/how-to-protect-your-google-cloud-org-from-security-misconfigs-using-cloud-native-auto-remediation-4553d878e270
 
+## Help
+Please create an issue in Github to raise any issues, bugs, concerns, or feature requests.
+
+## Contributing
+This project is open for anyone who would like to contribute.
+
 ## License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details
 
